@@ -36,6 +36,6 @@
     "env2": "^2.1.0",
     "glob": "^7.0.5",
     "ws": "^8.18.0",
-    "node-getopt" : "^0.2.3"
+    "node-getopt" : "treble37/node-getopt#package-update"
   }
 }
